@@ -1,0 +1,9 @@
+.vs
+*.sln
+AdventOfCode2024/Debug/*
+Debug/*
+AdventOfCode2024/Release/*
+AdventOfCode2024/x64/*
+x64/*
+*vcxproj*
+
