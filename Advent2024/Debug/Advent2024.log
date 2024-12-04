@@ -1,5 +1,0 @@
-﻿  Source.cpp
-C:\Users\Adrian\source\repos\Advent2024\Advent2024\Headers\Advent2024_01.h(25,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Adrian\source\repos\Advent2024\Advent2024\Headers\Advent2024_01.h(34,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Adrian\source\repos\Advent2024\Advent2024\Headers\Advent2024_01.h(42,12): warning C4018: '<': signed/unsigned mismatch
-  Advent2024.vcxproj -> C:\Users\Adrian\source\repos\Advent2024\Debug\Advent2024.exe
