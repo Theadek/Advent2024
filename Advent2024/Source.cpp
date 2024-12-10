@@ -3,7 +3,7 @@
 
 int main() {
 
-	Solve2024_08();
+	Solve2024_09();
 
 	return 0;
 }
